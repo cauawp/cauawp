@@ -1,4 +1,4 @@
-Olá👋, meu nome é Cauã, tenho 15 anos e atualmente estou focado em desenvolvimento front-end e back-end, procurando por freelancers e estágios para adiquirir mais experiência na área.
+Olá👋, meu nome é Cauã, tenho 15 anos e atualmente estou focado em desenvolvimento full-stack, procurando por estágios para adiquirir mais experiência na área.
 
 📌Sobre mim:
 
