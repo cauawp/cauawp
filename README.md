@@ -4,7 +4,7 @@ Olá, sou um jovem entusiasta desenvolvedor front-end, apaixonado por criar inte
 
 ## Habilidades
 
-- Linguagens: JavaScript, TypeScript, PHP, NodeJS
+- Linguagens: JavaScript, TypeScript, PHP, Node.js
 - Bibliotecas/Frameworks: React, Next.js, Express, Mongoose
 - Banco de Dados: MongoDB, MySQL
 
