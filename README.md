@@ -1,16 +1,16 @@
 # Sobre Mim
 
-Olá, sou um jovem entusiasta desenvolvedor front-end, apaixonado por criar interfaces e experiências digitais envolventes e atrativas, com animações que respeitam as melhores práticas de usabilidade que auxiliam os usuários e empresas a alcançar seus objetivos. Se você procura um desenvolvedor dedicado, estou disponível para colaborar. Entre em contato comigo!
+Olá, sou um entusiasta desenvolvedor front-end, apaixonado por criar interfaces e experiências digitais envolventes e atrativas, com animações que respeitam as melhores práticas de usabilidade que auxiliam os usuários e empresas a alcançar seus objetivos. Se você procura um desenvolvedor dedicado, estou disponível para colaborar. Entre em contato comigo!
 
 ## Habilidades
 
 - Linguagens: JavaScript, TypeScript, PHP, Node.js
-- Bibliotecas/Frameworks: React, Next.js, Express, Mongoose
+- Frameworks/Bibliotecas: React, Next.js, Express, Mongoose, mysql2, Tailwind CSS, Framer Motion
 - Banco de Dados: MongoDB, MySQL
 
 ## Conecte-se Comigo
 
-Você pode encontrar mais sobre minha jornada e experiência no meu [LinkedIn](https://www.linkedin.com/in/cau%C3%A3-wilian-a08313224/).
+Você pode encontrar mais sobre minha jornada e experiência no meu [LinkedIn](https://www.linkedin.com/in/cauawilian/).
 
 Contate-me por email: cauawpvgsul@gmail.com
 
