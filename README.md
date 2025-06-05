@@ -1,42 +1,41 @@
-# Sobre Mim
+# 👋 Sobre Mim
 
-Olá, sou um entusiasta desenvolvedor front-end, apaixonado por criar interfaces e experiências digitais envolventes e atrativas, com animações que respeitam as melhores práticas de usabilidade que auxiliam os usuários e empresas a alcançar seus objetivos. Se você procura um desenvolvedor dedicado, estou disponível para colaborar. Entre em contato comigo!
+Olá! Sou **Cauã Wilian**, desenvolvedor full-stack com foco em front-end. Tenho paixão por criar interfaces modernas, responsivas e animadas com foco em performance e usabilidade. Trabalho com tecnologias como **Next.js**, **React**, **Node.js**, **PostgreSQL**, **Redis** e **Docker**, e já participei de projetos robustos envolvendo integrações com ERPs, CRMs e APIs REST.
 
-## Habilidades
+> Busco sempre escrever código limpo, escalável e com ótima experiência para o usuário. Estou aberto a colaborações e oportunidades desafiadoras!
 
-- Linguagens: JavaScript, TypeScript, PHP, Node.js
-- Frameworks/Bibliotecas: React, Next.js, Express, Mongoose, mysql2, Tailwind CSS, Framer Motion
-- Banco de Dados: MongoDB, MySQL
+---
 
-## Conecte-se Comigo
+## 🛠️ Habilidades & Tecnologias
 
-Você pode encontrar mais sobre minha jornada e experiência no meu [LinkedIn](https://www.linkedin.com/in/cauawilian/).
+**Linguagens:**  
+JavaScript • TypeScript • Node.js • Python
 
-Contate-me por email: cauawpvgsul@gmail.com
+**Frameworks & Bibliotecas:**  
+React • Next.js • Express • Tailwind CSS • Framer Motion • Mongoose • mysql2
 
-Fique à vontade para me conectar e explorar meu trabalho.
+**Banco de Dados:**  
+PostgreSQL • MongoDB • MySQL • Redis
 
-Estou sempre aberto a oportunidades de colaboração e estou ansioso para contribuir para projetos desafiadores e interessantes. Se você está procurando um desenvolvedor front-end dedicado e entusiasta, entre em contato comigo!
+**DevOps / Outros:**  
+Docker • Docker Compose • Git • CI/CD • Bitrix24 API • JWT • Styled Components
 
-Vamos juntos desenvolver ideias! 💻🚀
+---
 
-## Tecnologias
+## 📊 Estatísticas
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Cauã Wilian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Cauã Wilian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Cauã Wilian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Cauã Wilian-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Cauã Wilian-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Cauã Wilian-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Cauã Wilian-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Cauã Wilian-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Cauã Wilian-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Cauã Wilian-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Cauã Wilian-Framer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg">
-</div>
-
-## Estatísticas do Perfil
-
-![Cauã Wilian GitHub Status](https://github-readme-stats.vercel.app/api?username=cauawp&show_icons=true&theme=radical)<br>
+![Cauã Wilian GitHub Status](https://github-readme-stats.vercel.app/api?username=cauawp&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauawp&layout=compact&theme=radical)
+
+---
+
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cauawilian)  
+📬 cauawpvgsul@gmail.com  
+🔗 [Portfólio](https://cauawilian.vercel.app)
+
+---
+
+### 💬 Vamos desenvolver ideias juntos?  
+Se você busca um dev dedicado, criativo e pronto para encarar desafios, me chama! 🚀💻
